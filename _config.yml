@@ -2,7 +2,7 @@
 title: Yudi's Title
 email: yudiko@vt.edu
 description: Yudi's Personal website
-baseurl: "/yudi" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yudiko.github.io" # the base hostname & protocol for your site
 github_username:  yudiko
 
