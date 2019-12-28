@@ -1,5 +1,6 @@
 ---
 title: Test
+permalink: /
 ---
 
 # Another page
