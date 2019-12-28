@@ -10,3 +10,11 @@ github_username:  yudiko
 remote_theme: mmistakes/minimal-mistakes
 # color_scheme: "dark"
 # search_enabled: false
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
