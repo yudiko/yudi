@@ -7,6 +7,6 @@ url: "https://yudiko.github.io" # the base hostname & protocol for your site
 github_username:  yudiko
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+remote_theme: midzer/urban-theme
+# color_scheme: "dark"
+# search_enabled: false
