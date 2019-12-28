@@ -5,7 +5,7 @@ permalink: /
 
 # Another page
 
-Test this
+Test this this is a test for new theme rendering
 
 
 blah
